@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OB3OyiteKUG4OSekpyDuD16KSKXzkxkTE0tUDrsng1PRvj9KbweGBWMXokfaDioeip6XqHf8JkiaszibvK6TRA==",
+  "dgSpecHash": "EYHSL1K/p2SuEmGptMTBJ88rjssF9TQ7A0O2+cdY7/fZ3a8alj/pXx9s8Rt87hFTvSCC5OoQpQm63HTJGTJINw==",
   "success": true,
   "projectFilePath": "F:\\Projects\\Libraries\\Log\\Log.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro - PC\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

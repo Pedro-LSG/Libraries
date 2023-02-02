@@ -1,0 +1,12 @@
+F:\Projects\Libraries\Log\bin\Debug\net6.0\Log.deps.json
+F:\Projects\Libraries\Log\bin\Debug\net6.0\Log.dll
+F:\Projects\Libraries\Log\bin\Debug\net6.0\Log.pdb
+F:\Projects\Libraries\Log\obj\Debug\net6.0\Log.csproj.AssemblyReference.cache
+F:\Projects\Libraries\Log\obj\Debug\net6.0\Log.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Libraries\Log\obj\Debug\net6.0\Log.AssemblyInfoInputs.cache
+F:\Projects\Libraries\Log\obj\Debug\net6.0\Log.AssemblyInfo.cs
+F:\Projects\Libraries\Log\obj\Debug\net6.0\Log.csproj.CoreCompileInputs.cache
+F:\Projects\Libraries\Log\obj\Debug\net6.0\Log.dll
+F:\Projects\Libraries\Log\obj\Debug\net6.0\refint\Log.dll
+F:\Projects\Libraries\Log\obj\Debug\net6.0\Log.pdb
+F:\Projects\Libraries\Log\obj\Debug\net6.0\ref\Log.dll
