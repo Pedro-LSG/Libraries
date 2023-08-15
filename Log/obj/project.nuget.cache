@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EYHSL1K/p2SuEmGptMTBJ88rjssF9TQ7A0O2+cdY7/fZ3a8alj/pXx9s8Rt87hFTvSCC5OoQpQm63HTJGTJINw==",
+  "dgSpecHash": "ba1+GtPG7mcYQ71NIfXQkD687XyQXGKHV6iWwsI6HM6bNPmHT97RUmKdxr3CidEMCHq5FDt1+pshPwCMPL8oJw==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\Libraries\\Log\\Log.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Source\\Repos\\Libraries\\Log\\Log.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Pedro - PC\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }
